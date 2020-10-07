@@ -1,0 +1,6 @@
+package com.example.AppBar
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
